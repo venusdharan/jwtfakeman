@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/venusdharan/jwtfakeman/issues"
   },
-  "homepage": "https://github.com/venusdharan/jwtfakeman#readme"
+  "homepage": "https://github.com/venusdharan/jwtfakeman#readme",
+  "dependencies": {
+    "@hapi/hapi": "^19.2.0",
+    "lowdb": "^1.0.0"
+  }
 }
